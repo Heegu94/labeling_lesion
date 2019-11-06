@@ -1,5 +1,5 @@
 # labeling_lesion
-__
+___
 
 This is a sample code of labeling lesion. 
 
